@@ -1,0 +1,4 @@
+name,contact,email,currency,lists,dims,yard_city,yard_state,yard_mode,yard_equipment,yard_rail
+Mountain West Building Supply,Mark Jensen,mark@example.com,USD,SPF;DF,,Salt Lake City,UT,truck,Tridem/Maxi,
+Mountain West Building Supply,Mark Jensen,mark@example.com,USD,SPF;DF,,Boise,ID,truck,Tridem/Maxi,
+Front Range Truss,Dana Ortiz,dana@example.com,USD,SPF,2x4;2x6,Denver,CO,rail,,BNSF
